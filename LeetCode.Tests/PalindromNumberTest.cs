@@ -1,6 +1,4 @@
-﻿using LeetCodeSolutions.Easy;
-
-namespace LeetCode.Tests
+﻿namespace LeetCode.Tests
 {
     public class PalindromNumberTest
     {
